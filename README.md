@@ -6,6 +6,8 @@ Sample project that I completed. Interactive shiny application that uses data fr
 
 Although we are able to update the data through the submodule in our repository by sourcing the `import.r` script, the published shiny application has data through June 7, 2021.
 
+Code used to build the shiny application are in the `ui.r` and `server.r` files.
+
 ## Application
 
 Here is the link to the published shiny application:
