@@ -8,7 +8,7 @@ Here is the link to the published shiny application:
 
 https://hunternosek.shinyapps.io/nyt-covid-analysis/ 
 
-## Pre-requisites
+## Prerequisites
 
 ### R Packages
 
